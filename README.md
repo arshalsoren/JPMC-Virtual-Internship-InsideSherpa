@@ -1,7 +1,7 @@
 # JPMC-Virtual-Internship-InsideSherpa
 JPMorgan Chase &amp; Co. Software Engineering Virtual Internship Solutions
 
-#### 1. Interface with a stock price data feed [Task-1] (https://github.com/arshalsoren/JPMC-Virtual-Internship-InsideSherpa/tree/master/JPMC-tech-task-1-py3)
+#### 1. Interface with a stock price data feed [Task-1](https://github.com/arshalsoren/JPMC-Virtual-Internship-InsideSherpa/tree/master/JPMC-tech-task-1-py3)
 Interface with a stock price data feed and set your system for analysis of data
 
 #### 2. Use JPMorgan Chase frameworks and tools [Task-2](https://github.com/arshalsoren/JPMC-Virtual-Internship-InsideSherpa/tree/master/JPMC-tech-task-2-py3)
