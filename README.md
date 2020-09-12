@@ -12,3 +12,6 @@ Use Perspective to create the chart for the trader's dashboard
 
 #### 4. Bonus task: Open source contribution
 Make a contribution to Perspective or other projects backlogs
+
+#### Certificate
+![New](https://github.com/arshalsoren/JPMC-Virtual-Internship-InsideSherpa/blob/master/certifcate_of_completion.png)
